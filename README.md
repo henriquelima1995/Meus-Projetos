@@ -1,3 +1,3 @@
 # Meus Projetos
  Projetos a serem compartilhados! 
- Desenvolvimanto em Flutter.
+ Desenvolvimento em Flutter.
